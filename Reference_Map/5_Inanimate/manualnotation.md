@@ -1,10 +1,1 @@
 #NonImportant
-
-Mechanical]]
-Food]]
-Fashion]]
-Weaponry]]
-Transport]]
-Furniture]]
-Location_Specific]]
-Object]]

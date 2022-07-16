@@ -1,3 +1,1 @@
 #NonImportant
-
-akamura Seiich) It's Fun Drawing People!]]

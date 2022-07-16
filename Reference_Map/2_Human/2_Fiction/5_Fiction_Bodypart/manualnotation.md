@@ -1,4 +1,1 @@
 #NonImportant
-
-akamura Seiich) It's Fun Drawing People! Face & Head]]
-Åí„Çì„Åæ„ÅÑ ) The Width of the Character Expression - Hands & Feet]]

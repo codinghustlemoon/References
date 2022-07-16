@@ -293,7 +293,7 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 	   echo "##### Note Links" >> "$f"
 	   echo "#### Tags" >> "$f"
    else
-      echo "not folder note"
+      echo "NotFolderNote f is $f and d.md is $d.mf"
    fi
   ' find-sh {} \;
 ```

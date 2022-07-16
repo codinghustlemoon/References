@@ -1,5 +1,1 @@
 #NonImportant
-
-Elemental_Effect]]
-Explosive_Effect]]
-�（A・TYPEcorp.) Digital Illustration - Effects]]

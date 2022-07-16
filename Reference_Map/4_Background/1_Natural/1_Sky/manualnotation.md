@@ -1,5 +1,1 @@
 #NonImportant
-
-Clouds]]
-Atmosphere]]
-Weather]]
