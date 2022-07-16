@@ -3,6 +3,15 @@
 ```bash
 find . -type d -exec sh -c 'for d; do touch "$d/directsubfolder.txt"; done' _ {} +
 find . -type d -exec sh -c 'for d; do touch "$d/manualnotation.md"; done' _ {} +
+find . -type d -exec sh -c 'for d; do touch "$d/directsubfolder.txt"; done' _ {} +
+```
+```bash
+find . -type d -exec sh -c 'for d;
+	if test -f "directsubfolder.txt"; then
+		echo "directsubfolder.txt exists"
+	else
+		do touch "$d/directsubfolder.txt" 
+	fi; done' _ {} +
 ```
 
 in the DATABASE Setting it up initially
@@ -31,9 +40,64 @@ find . -path '*/*/*' -type f -print -exec sh -c '
    else
       e=".$e"
    fi
-   git mv "$f" "$d$e"
+   filename=$"d$e"
+   filenameformatted="${filename:2}"
+   git mv "$f" "$filenameformatted"
   ' find-sh {} \;
 
+```
+below is fore renaming the foldernames!!
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+
+   d_formatted="${d:2}"
+   f_formatted="${f:2}"
+   if [ "$f_formatted" = "$d_formatted.md" ]; then
+       filepath="$(pwd)"
+	   filename="${d:2}"
+	   filetitle="### $filename"
+   
+	   git mv "$f" "$filename.md"
+   else
+      echo "d_formatted is $d_formatted and f is $f"
+   fi
+  ' find-sh {} \;
+```
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+
+   if [ "$f" = ".txt" ]; then
+       filepath="$(pwd)"
+	   filename="${d:2}"
+	   filetitle="### $filename"
+   
+	   git mv "$f" "directsubfolder.txt"
+   else
+      echo "not folder note"
+   fi
+  ' find-sh {} \;
 ```
 ```bash
 find . -path '*/*/*' -type f -print -exec sh -c '
@@ -194,6 +258,7 @@ find $(pwd) -maxdepth 1 -mindepth 1 \
     -type d -exec basename {} \;
 ```
 
+the actual folder note!!
 ```bash
 find . -path '*/*/*' -type f -print -exec sh -c '
    f="$1"
@@ -223,8 +288,7 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 	   echo "$parentlink" >> "$f"
 
 	   echo "##### Children Links" >> "$f"
-	   childrenlink=$(find . -maxdepth 1 -type d | sed 's/$/]]/' | cut -c 3- | cut -c 3-)
-	   echo "$childrenlink" >> "$f"
+	   cat directsubfolder.txt >> "$f"
    
 	   echo "##### Note Links" >> "$f"
 	   echo "#### Tags" >> "$f"
@@ -238,3 +302,59 @@ f [ "$e" = "$f" ]; then
    else
       e=".$e"
    fi
+
+for dealing with the manual.md files
+
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+
+   if [ "$f" = "manualnotation.md" ]; then
+	   echo "#NonImportant" > "$f"
+   else
+      echo "not manualnotation note"
+   fi
+  ' find-sh {} \;
+```
+
+https://stackoverflow.com/questions/2099471/add-a-prefix-string-to-beginning-of-each-line
+the directsubfolder.txt
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+
+   if [ "$f" = "directsubfolder.txt" ]; then
+       filepath="$(pwd)"
+	   filename="${d:2}"
+	   filetitle="### $filename"
+	   
+	   childrenlink=$(find . -maxdepth 1 -type d | sed 's/$/]]/' | cut -c 3- | cut -c 3-)
+	   echo "$childrenlink" > "$f"
+	   sed -i -e 's/^/[[/' "$f"
+	   sed -i 1d "$f"
+   else
+      echo "not folder note"
+   fi
+  ' find-sh {} \;
+```
+directsubfolder.

@@ -1,0 +1,4 @@
+[[Fantasy]]
+[[Scifi]]
+[[Cyber_Punk]]
+[[Steam_Punk]]
