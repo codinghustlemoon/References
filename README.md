@@ -1,117 +1,9 @@
 # Art_Reference
 
 ```bash
-pwd var=$(pwd) 
-basename $(pwd)
-mydir="$(basename $PWD)" 
-echo "$mydir"
-find . -type d -exec sh -c 'for d; do touch "$d/default"; done' _ {} +
-
-
-find . -type d -exec sh -c 'for d; do
-echo "$pwd"
-touch "$d/test"; done' _ {} +
-
-
-
-
-
+find . -type d -exec sh -c 'for d; do touch "$d/directsubfolder.txt"; done' _ {} +
+find . -type d -exec sh -c 'for d; do touch "$d/manualnotation.md"; done' _ {} +
 ```
-
-```bash
-find . -type d -exec sh -c 'for d; do touch "$d/default"; done' _ {} +
-
-find . -name 'default' -exec sh -c 'mv "$0" "${0%.$(basename $PWD)}"' {} \;
-
-find . -name 'default' -exec sh -c 'mv "$0" "${"$(basename $PWD)"}"' {} \;
-
-current_dir=${PWD##*/} 
-echo "$current_dir"
-printf "%s\n" "${PWD##*/}" 
-echo "${PWD##*/}"
-
-
-find . -type d -exec sh -c 'for d; do touch "$d/default"; done' _ {} +
-
-find . -name 'default' -exec sh -c 'mv "$0" "$(basename $PWD)"' {} \;
-
-
-find . -type d -exec sh -c 'for d; do touch "$d/default"; done' _ {} +
-find . -name 'default' -exec sh -c 'mv "$0" "test.txt"' {} \;
-
-
-
-
-
-```bash
-find . -path '*/*/*' -type f -print -exec sh -c '
-   f="$1"
-   d="${f%/*}"
-   cd "$d" || exit 1
-   d="${d##*/}"
-   f="${f##*/}"
-   e="${f##*.}"
-   if [ "$e" = "$f"]; then
-      e=""
-   else
-      e=".$e"
-   fi
-   if [ "default" = "$f"]; then
-      mv -i -- "$f" "$d$e"
-   else
-      echo "AHHHHHH"
-   fi
-  ' find-sh {} \;
-```
-```
-to recursively change all files to parent file
-https://superuser.com/questions/1602705/recursively-renaming-files-under-subdirectories-with-the-directory-name-with-lin
-
-
-
-
-## to add a default file to all folders
-find . -type d -exec sh -c 'for d; do touch "$d/default"; done' _ {} +
-
-
-
-
-
-```bash
-find . -path '*/*/*' -type f -print -exec sh -c '
-   f="$1"
-   d="${f%/*}"
-   cd "$d" || exit 1
-   d="${d##*/}"
-   f="${f##*/}"
-   e="${f##*.}"
-   if [ "$e" = "$f" ]; then
-      e=""
-   else
-      e=".$e"
-   fi
-   git mv -i -- "$f" "$d$e"
-  ' find-sh {} \;
-
-
-
-find . -path '*/*/*' -type f -print -exec sh -c '
-   f="$1"
-   d="${f%/*}"
-   cd "$d" || exit 1
-   d="${d##*/}"
-   f="${f##*/}"
-   e="${f##*.}"
-   if [ "$e" = "$f" ]; then
-      e=""
-   else
-      e=".$e"
-   fi
-   git mv "$f" "$d$e"
-  ' find-sh {} \;
-```
-
-
 
 in the DATABASE Setting it up initially
 git init
@@ -143,7 +35,28 @@ find . -path '*/*/*' -type f -print -exec sh -c '
   ' find-sh {} \;
 
 ```
-
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+   
+   if [ "directsubfolder.md" = "$f" ]; then
+      echo "hit"
+      git mv "$f" "$d.txt"
+   else
+      echo "not hit"
+   fi
+  ' find-sh {} \;
+```
 git mv default.md origin md // this one is due to the above not renaming the current folder
 git add /*
 git commit -m "renaming files"
@@ -152,3 +65,176 @@ git push -u origin main
 
 IN DATABASE
 git pull // to update
+
+
+
+
+
+```bash
+filepath="$(cd ../ && PWD)"
+echo ${filepath##*/}*
+
+```
+
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+filepath="$(cd ../ && PWD)"
+   echo ${filepath##*/} 
+  ' find-sh {} \;
+
+```
+
+delete certain files
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+   rm "directsubfolder.md"
+  ' find-sh {} \;
+```
+
+DANGEROUS DO IT INSIDE REFERENCE MAP!!!!!!!! not with .git inside!!!
+
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+   filepath="filepath: $(pwd)"
+   filename="$d"
+   echo $filepath > "$f"
+   echo $filename >> "$f"
+  ' find-sh {} \;
+
+```
+
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+   
+   filepath="$(pwd)"
+   filename="${d:2}"
+   filetitle="### $filename"
+   
+   echo "$filetitle" > "$f"
+   echo "#### Links" >> "$f"
+   
+   echo "##### Parent Links" >> "$f"
+   parentdirpath="$(dirname "$filepath")"
+   parentdirname="${parentdirpath##*/}"
+   parentlink="[[${parentdirname:2}]]"
+   echo "$parentlink" >> "$f"
+
+   echo "##### Children Links" >> "$f"
+   childrenlink=$(find . -maxdepth 1 -type d | sed 's/$/]]/' | cut -c 3- | cut -c 3-)
+   echo "$childrenlink" >> "$f"
+   
+   echo "##### Note Links" >> "$f"
+   echo "#### Tags" >> "$f"
+  ' find-sh {} \;
+```
+sed -i '3 i New Line with sed' File1
+   childrenlinkformat=$(sed -i -e 's/^/prefix/' | "$childrenlink")
+   | cut -c 3- | cut -c 3- 
+```bash
+find . -maxdepth 1 -type d | while read -r d; do sed -e 's/^/[[/'; done | sed 's/$/]]/' | cut -c 3- | cut -c 3- >> 
+```
+```bash
+find . -maxdepth 1 -type d | awk -v q="'" '{print "line " q $0 q}' | sed 's/$/]]/' | cut -c 3- | cut -c 3- >> 
+
+find . -maxdepth 1 -type d | sed -i -e 's/^/[[/' | sed 's/$/]]/' | cut -c 3- | cut -c 3- >> "$f"
+```
+
+```bash
+parentdirpath="$(dirname "$(pwd)")"
+echo "$parentdirpath"
+parentdirname="${parentdirpath##*/}"
+echo "$parentdirname"
+
+```
+
+  echo $filepath >> "$f"
+   echo $filename >> "$f"
+   
+https://unix.stackexchange.com/questions/93323/list-subdirectories-only-n-level-deep
+```bash
+find $filepath -maxdepth 1 -mindepth 1 \
+    -type d -exec basename {} \;
+```
+
+```bash
+find $(pwd) -maxdepth 1 -mindepth 1 \
+    -type d -exec basename {} \;
+```
+
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+
+   if [ "$f" = "$d.md" ]; then
+       filepath="$(pwd)"
+	   filename="${d:2}"
+	   filetitle="### $filename"
+   
+	   echo "$filetitle" > "$f"
+	   echo "#### Links" >> "$f"
+   
+	   echo "##### Parent Links" >> "$f"
+	   parentdirpath="$(dirname "$filepath")"
+	   parentdirname="${parentdirpath##*/}"
+	   parentlink="[[${parentdirname:2}]]"
+	   echo "$parentlink" >> "$f"
+
+	   echo "##### Children Links" >> "$f"
+	   childrenlink=$(find . -maxdepth 1 -type d | sed 's/$/]]/' | cut -c 3- | cut -c 3-)
+	   echo "$childrenlink" >> "$f"
+   
+	   echo "##### Note Links" >> "$f"
+	   echo "#### Tags" >> "$f"
+   else
+      echo "not folder note"
+   fi
+  ' find-sh {} \;
+```
+f [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
