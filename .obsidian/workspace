@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "6b083820927e1388",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c471a32c62274b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2fa0193affaa82d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee30dabd85a0d623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a64b7afdb56e4cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fa60cdec12a2486",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "718fb09f81d559c6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 444.5
+  },
+  "right": {
+    "id": "1bd1529a6806723d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4197ba502d23f7f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77fa7b1d92d6cd8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac391fd419c07f00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "beb2446faaa8f611",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e91ca4e3b7747701",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44c471a32c62274b",
+  "lastOpenFiles": [
+    "1_Origin/origin.md",
+    "1_Origin/8_Other/Other.md",
+    "FINISHED_IMPORTANT.md",
+    "backup.md",
+    "README.md",
+    "Reference_Map/1_Visual_Storytelling/2_Panelling/manualnotation.md",
+    "Reference_Map/1_Visual_Storytelling/2_Panelling/Panelling.md",
+    "testing.md",
+    "Reference_Map/1_Visual_Storytelling/3_Lettering/Lettering.md",
+    "Reference_Map/1_Visual_Storytelling/1_Expression/Expression.md"
+  ]
+}

@@ -7,5 +7,3 @@
 [[Scifi]]
 [[Cyber_Punk]]
 [[Steam_Punk]]
-##### Note Links
-#### Tags

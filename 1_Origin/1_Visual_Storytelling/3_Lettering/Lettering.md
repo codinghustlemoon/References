@@ -1,2 +1,5 @@
-filepath: /d/Art/Themed_References/References_Structure/Reference_Map/1_Visual_Storytelling/3_Lettering
-filename: 3_Lettering
+### Lettering
+#### Links
+##### Parent Links
+[[Visual_Storytelling]]
+##### Children Links

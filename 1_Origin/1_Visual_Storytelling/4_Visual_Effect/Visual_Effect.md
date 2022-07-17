@@ -1,2 +1,8 @@
-filepath: /d/Art/Themed_References/References_Structure/Reference_Map/1_Visual_Storytelling/4_Visual_Effect
-filename: 4_Visual_Effect
+### Visual_Effect
+#### Links
+##### Parent Links
+[[Visual_Storytelling]]
+##### Children Links
+[[Elemental_Effect]]
+[[Explosive_Effect]]
+[[松（A・TYPEcorp.) Digital Illustration - Effects]]

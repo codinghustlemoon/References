@@ -1,5 +1,9 @@
- '.']]
- './1_Specific_Genre']]
- './2_Textures']]
- './3_Specific_Decade']]
- './4_Fundamentals']]
+### Other
+#### Links
+##### Parent Links
+[[Origin]]
+##### Children Links
+[[Specific_Genre]]
+[[Textures]]
+[[Specific_Decade]]
+[[Fundamentals]]

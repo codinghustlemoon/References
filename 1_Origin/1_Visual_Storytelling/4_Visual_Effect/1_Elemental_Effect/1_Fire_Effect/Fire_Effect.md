@@ -1,2 +1,5 @@
-filepath: /d/Art/Themed_References/References_Structure/Reference_Map/1_Visual_Storytelling/4_Visual_Effect/1_Elemental_Effect/1_Fire_Effect
-filename: 1_Fire_Effect
+### Fire_Effect
+#### Links
+##### Parent Links
+[[Elemental_Effect]]
+##### Children Links

@@ -1,2 +1,5 @@
-filepath: /d/Art/Themed_References/References_Structure/Reference_Map/1_Visual_Storytelling/4_Visual_Effect/2_Explosive_Effect/Drawing Explosions
-filename: Drawing Explosions
+### Drawing Explosions
+#### Links
+##### Parent Links
+[[Explosive_Effect]]
+##### Children Links
