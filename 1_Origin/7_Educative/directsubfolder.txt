@@ -1,5 +1,5 @@
 [[Design]]
-[[Anatomy]]
+[[Human_Anatomy]]
 [[Material]]
 [[Tips_And_Tricks]]
 [[Knowledge]]
