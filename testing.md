@@ -159,3 +159,61 @@ https://reactgo.com/bash-remove-first-n-characters/
 https://www.geeksforgeeks.org/cut-command-linux-examples/
 REMOVEING N CHARACTERS FROM STING
 https://www.baeldung.com/linux/bash-remove-first-characters
+
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+   
+   d_formatted="${d:2}"
+   f_formatted="${f:2}"
+   if [ "$f" = "$" ]; then
+       filepath="$(pwd)"
+	   filename="${d:2}"
+	   filetitle="### $filename"
+   
+	   git mv "$f" "$filename.md"
+   if [ "$f_formatted" = "$d_formatted.md" ]; then
+   else
+      echo "d_formatted is $d_formatted and f is $f"
+   fi
+  ' find-sh {} \;
+```
+
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1"
+   d="${f%/*}"
+   cd "$d" || exit 1
+   d="${d##*/}"
+   f="${f##*/}"
+   e="${f##*.}"
+   if [ "$e" = "$f" ]; then
+      e=""
+   else
+      e=".$e"
+   fi
+
+   d_formatted="${d:2}"
+   f_formatted="${f:2}"
+   if [ "$f" = "$" ]; then
+       filepath="$(pwd)"
+	   filename="${d:2}"
+	   filetitle="### $filename"
+   
+	   git mv "$f" "$filename.md"
+   if [ "$f_formatted" = "$d_formatted.md" ]; then
+   else
+      echo "d_formatted is $d_formatted and f is $f"
+   fi
+  ' find-sh {} \;
+```

@@ -47,6 +47,8 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 
 ```
 below is fore renaming the foldernames!!
+https://stackoverflow.com/questions/4111475/how-to-do-a-logical-or-operation-for-integer-comparison-in-shell-scripting
+WORKING
 ```bash
 find . -path '*/*/*' -type f -print -exec sh -c '
    f="$1"
@@ -63,17 +65,22 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 
    d_formatted="${d:2}"
    f_formatted="${f:2}"
-   if [ "$f_formatted" = "$d_formatted.md" ]; then
-       filepath="$(pwd)"
+   
+   if [ "$f" = "manualnotation.md" ] || [ "$f" = "directsubfolder.txt" ]; then
+       echo "file is manualnotation.md or directsubfolder.txt"
+   else
+	   filepath="$(pwd)"
 	   filename="${d:2}"
 	   filetitle="### $filename"
-   
+       echo "file is $f"
 	   git mv "$f" "$filename.md"
-   else
-      echo "d_formatted is $d_formatted and f is $f"
    fi
   ' find-sh {} \;
 ```
+If the file names do not match we choose the file that is not manualnotation.md or directsubfolder.txt to name as our file 
+
+
+the below is for naming direct subfolder.txt
 ```bash
 find . -path '*/*/*' -type f -print -exec sh -c '
    f="$1"
@@ -272,10 +279,11 @@ find . -path '*/*/*' -type f -print -exec sh -c '
    else
       e=".$e"
    fi
-
-   if [ "$f" = "$d.md" ]; then
+   
+   filename="${d:2}"
+   if [ "$f" = "$filename.md" ]; then
+       echo "f is $f and d is $d"
        filepath="$(pwd)"
-	   filename="${d:2}"
 	   filetitle="### $filename"
    
 	   echo "$filetitle" > "$f"
@@ -289,11 +297,8 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 
 	   echo "##### Children Links" >> "$f"
 	   cat directsubfolder.txt >> "$f"
-   
-	   echo "##### Note Links" >> "$f"
-	   echo "#### Tags" >> "$f"
    else
-      echo "NotFolderNote f is $f and d.md is $d.mf"
+      echo "not folder file"
    fi
   ' find-sh {} \;
 ```
