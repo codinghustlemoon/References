@@ -1,2 +1,13 @@
-filepath: /d/Art/Themed_References/References_Structure/Reference_Map/1_Visual_Storytelling
-filename: 1_Visual_Storytelling
+### Visual_Storytelling
+#### Links
+##### Parent Links
+[[Origin]]
+##### Children Links
+[[Expression]]
+[[Panelling]]
+[[Lettering]]
+[[Visual_Effect]]
+[[UI_Element]]
+[[Pose]]
+[[Color]]
+[[Animation]]
