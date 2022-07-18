@@ -1,3 +1,4 @@
+#NonImportant 
 below is fore renaming the foldernames!!
 https://stackoverflow.com/questions/4111475/how-to-do-a-logical-or-operation-for-integer-comparison-in-shell-scripting
 If the file names do not match we choose the file that is not manualnotation.md or directsubfolder.txt to name as our file 

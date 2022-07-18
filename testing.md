@@ -1,7 +1,101 @@
+
+```bash
+# find leaf directories
+find -type d -links -3 -print0 | while read -d '' dir
+do
+    # check if it contains some files
+    if ls -1qA "$dir" | grep -q .
+    then
+        echo "$dir"
+        filenumber="find "$dir" -maxdepth 1 -type d | cut -c 3- | wc -l"
+        if ["$filenumber" -gt 1 ]; then
+           echo "there exists a folder $filenumber minus 1 of them"
+	   else
+	       echo "there is zero folders"
+	   fi
+    fi
+done
+```
+https://stackoverflow.com/questions/63451128/find-all-directories-that-dont-contain-other-directories
+```bash
+find -type d -links -3 -print0 | while read -d '' dir
+do
+    # check if it contains some files
+    if ls -1qA "$dir" | grep -q .
+    then
+        echo "$dir"
+        filenumber=$(find "$dir" -maxdepth 1 -type d | cut -c 3- | wc -l)
+        echo "$filenumber"
+    fi
+done
+```
+```bash
+find -type d -links -3 -print0 | while read -d '' dir
+do
+    # check if it contains some files
+    if ls -1qA "$dir" | grep -q .
+    then
+        echo "$dir"
+        if [ $(find "$dir" -maxdepth 1 -type d | cut -c 3- | wc -l) -gt 1 ]; then
+	        echo "not green file"
+		else
+			echo "is a green file"
+        fi
+    fi
+done
+```
+
+
+
+
+https://stackoverflow.com/questions/17648033/counting-number-of-directories-in-a-specific-directory
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1" 
+   f="${f##*/}"
+
+   echo "f: $f and path $(pwd)"
+   
+   if [ "$f" = "directsubfolder.txt" ]; then
+	   filepwd=$(readlink -f $f)
+       filenumber=$(find $filepwd -maxdepth 1 -type d | cut -c 3- | wc -l)
+       if ["$filenumber" -gt 1 ]; then
+           echo "there exists a folder $filenumber minus 1 of them"
+	   else
+	       echo "there is zero folders"
+	   fi
+   else
+	   echo "file is not directsubfolder.txt"
+   fi
+  ' find-sh {} \; 
+```
+```bash
+find . -path '*/*/*' -type f -print -exec sh -c '
+   f="$1" 
+   f="${f##*/}"
+   filepwd="$(find . -name directsubfolder.txt)"
+   echo "f: $f and $filepwd path $(find "$filepwd" -maxdepth 1 -type d | cut -c 3- | wc -l)"
+  ' find-sh {} \; 
+```
+```bash
+find . -name 'directsubfolder.txt' -exec sh -c '
+   f="$1" 
+   f="${f##*/}"
+	echo "f: $pwd"
+' find-sh {} \;
+```
+```bash
+
+
+
+
+
+
+
 find . -path '*/*/*' -type f -print -exec sh -c '
 echo ${PWD##*/}*
   ' find-sh {} \;
-
+#NonImportant 
 
 find . -path '*/*/*' -type d -print -exec sh -c '
 echo ${PWD##*/}*

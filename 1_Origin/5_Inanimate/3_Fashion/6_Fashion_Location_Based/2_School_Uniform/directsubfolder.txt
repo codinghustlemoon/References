@@ -1,0 +1,4 @@
+[[(上月さつき) Uniform Preference]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

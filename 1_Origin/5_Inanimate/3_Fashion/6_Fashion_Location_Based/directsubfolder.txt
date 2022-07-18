@@ -1,0 +1,5 @@
+[[Swimsuit]]
+[[School_Uniform]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

@@ -6,3 +6,6 @@
 [[(Yielder) Elemental Anatomy for Deformed Bodys - 68942169 (pixiv)]]
 [[(小鳥遊啓) Legs and Proportions - 6234591 (pixiv)]]
 [[（A・TYPEcorp.) Digital Illustration - Body]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

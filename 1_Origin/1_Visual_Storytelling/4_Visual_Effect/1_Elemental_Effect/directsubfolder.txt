@@ -1,1 +1,4 @@
 [[Fire_Effect]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

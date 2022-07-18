@@ -2,3 +2,6 @@
 [[FinalFantasy_Type0_AkaNoHishi]]
 [[FinalFantasy_XIV_Artbook]]
 [[FinalFantasy_XIV_Heavensward]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
