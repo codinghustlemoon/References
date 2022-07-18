@@ -6,3 +6,6 @@
 [[Composition Everyone is Easy (Muneo Saito)]]
 [[Foreshortening with Action]]
 [[Composition]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

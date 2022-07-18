@@ -6,3 +6,6 @@
 [[Skirts]]
 [[Female Fashion]]
 [[Drawing Dress]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

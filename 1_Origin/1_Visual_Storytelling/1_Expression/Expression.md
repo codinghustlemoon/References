@@ -7,3 +7,6 @@
 [[(Hard Deluxe) Draw with Digital Tools! 「Facial Expression」]]
 [[(宮月もそこ) Drawing Character Emotional Expression]]
 [[(宮月もそこ) Moe Character Drawing Basic Techniques]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

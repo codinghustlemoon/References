@@ -9,3 +9,6 @@
 [[Sketch_Collection_2009]]
 [[Sketch_Collection_2011A]]
 [[Sketch_Collection_2011B]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

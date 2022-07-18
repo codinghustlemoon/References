@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#NonImportant",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:Origin",
+      "color": {
+        "a": 1,
+        "rgb": 16773360
+      }
+    },
+    {
+      "query": "tag:Folder/Subcolor/1",
+      "color": {
+        "a": 1,
+        "rgb": 5431382
+      }
+    },
+    {
+      "query": "tag:Folder/Subcolor/2",
+      "color": {
+        "a": 1,
+        "rgb": 3107572
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.03788598574822,
+  "lineSizeMultiplier": 1.52577197149644,
+  "collapse-forces": false,
+  "centerStrength": 0.291666666666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 234,
+  "scale": 0.0645553149968393,
+  "close": false
+}

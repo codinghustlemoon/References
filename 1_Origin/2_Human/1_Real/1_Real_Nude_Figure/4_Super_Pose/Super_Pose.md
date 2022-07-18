@@ -9,3 +9,6 @@
 [[Super Pose Book Nude Collection]]
 [[Super Pose Book Nude Vol.5 - Gorgeous]]
 [[Irina Ballerina]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

@@ -8,3 +8,6 @@
 [[Rock]]
 [[Cave]]
 [[Ground]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

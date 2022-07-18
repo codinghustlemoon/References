@@ -8,3 +8,6 @@
 [[Granblue]]
 [[Tactics Ogre (Akihiko Yoshida)]]
 [[Byleth]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

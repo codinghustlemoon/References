@@ -6,3 +6,6 @@
 [[Feminine]]
 [[Masculine]]
 [[Neutral]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

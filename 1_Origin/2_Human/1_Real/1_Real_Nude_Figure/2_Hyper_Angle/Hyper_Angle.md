@@ -6,3 +6,6 @@
 [[Hyper Angle - Muscle Battle]]
 [[Hyper Angle 1]]
 [[Hyper Angle 3]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

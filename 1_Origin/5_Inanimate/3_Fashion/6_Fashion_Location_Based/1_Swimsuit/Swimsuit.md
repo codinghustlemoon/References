@@ -1,6 +1,9 @@
 ### Swimsuit
 #### Links
 ##### Parent Links
-[[Location_Specific]]
+[[Fashion_Location_Based]]
 ##### Children Links
 [[School Swimsuit (pixiv 49024154)]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

@@ -9,3 +9,6 @@
 [[Flower]]
 [[Vine]]
 [[Mixed]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

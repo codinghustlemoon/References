@@ -3,9 +3,14 @@
 ### Other
 #### Links
 ##### Parent Links
-[[Origin]]
+
 ##### Children Links
-[[Specific_Genre]]
-[[Textures]]
-[[Specific_Decade]]
-[[Fundamentals]]
+[[Visual_Storytelling]]
+[[Human]]
+[[Creature]]
+[[Background]]
+[[Inanimate]]
+[[Franchise]]
+[[Educative]]
+[[Other]]
+

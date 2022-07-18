@@ -12,3 +12,6 @@
 [[Art Models 7]]
 [[Art Models 8]]
 [[Art Models 9]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

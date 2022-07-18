@@ -11,3 +11,6 @@
 [[Furniture]]
 [[Location_Specific]]
 [[Object]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

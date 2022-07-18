@@ -10,3 +10,6 @@
 [[Chest]]
 [[Muscle]]
 [[Skeleton]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

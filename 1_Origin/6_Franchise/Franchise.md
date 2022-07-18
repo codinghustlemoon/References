@@ -7,3 +7,6 @@
 [[Game_Media]]
 [[Visual_Media]]
 [[Novel_Media]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

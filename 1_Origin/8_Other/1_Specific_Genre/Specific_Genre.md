@@ -7,3 +7,6 @@
 [[Scifi]]
 [[Cyber_Punk]]
 [[Steam_Punk]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

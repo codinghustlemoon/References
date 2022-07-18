@@ -6,3 +6,6 @@
 [[Real]]
 [[Fiction]]
 [[Human_Design]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

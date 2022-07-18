@@ -6,3 +6,6 @@
 [[Graphic_Archive_I]]
 [[Graphic_Archive_II]]
 [[Graphic_Archive_III]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

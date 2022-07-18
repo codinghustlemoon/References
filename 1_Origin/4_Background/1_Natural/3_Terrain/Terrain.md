@@ -8,3 +8,6 @@
 [[Aquatic_Climate]]
 [[Earthy_Climate]]
 [[Other_Climate]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

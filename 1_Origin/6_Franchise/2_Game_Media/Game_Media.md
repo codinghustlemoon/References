@@ -9,3 +9,6 @@
 [[Magna Carta II Art Collection]]
 [[Nier_Automata]]
 [[Persona_5_Artbook]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

@@ -6,3 +6,6 @@
 [[Sky]]
 [[Foliage]]
 [[Terrain]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

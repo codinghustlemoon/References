@@ -4,3 +4,6 @@
 [[Franchise]]
 ##### Children Links
 [[Cosmere]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

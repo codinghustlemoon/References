@@ -5,3 +5,6 @@
 ##### Children Links
 [[Real_Creature]]
 [[Fantasy_Creature]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

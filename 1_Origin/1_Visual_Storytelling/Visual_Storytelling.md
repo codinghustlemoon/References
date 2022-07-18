@@ -11,3 +11,6 @@
 [[Pose]]
 [[Color]]
 [[Animation]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

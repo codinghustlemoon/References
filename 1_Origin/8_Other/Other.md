@@ -7,3 +7,6 @@
 [[Textures]]
 [[Specific_Decade]]
 [[Fundamentals]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

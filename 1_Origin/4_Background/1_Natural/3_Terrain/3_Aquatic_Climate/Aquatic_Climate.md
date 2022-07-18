@@ -6,3 +6,6 @@
 [[Waves]]
 [[Underwater]]
 [[Islands]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

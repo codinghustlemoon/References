@@ -6,3 +6,6 @@
 [[Mistborn]]
 [[Stormlight_Archive]]
 [[Text]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

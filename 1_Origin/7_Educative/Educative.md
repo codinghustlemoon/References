@@ -8,3 +8,6 @@
 [[Material]]
 [[Tips_And_Tricks]]
 [[Knowledge]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

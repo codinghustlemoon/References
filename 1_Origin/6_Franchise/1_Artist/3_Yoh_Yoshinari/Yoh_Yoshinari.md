@@ -8,3 +8,6 @@
 [[Dead Wood Sketch and Concept]]
 [[Special_Compliation]]
 [[The Art of Yoh Yhoshinari Illustrations]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

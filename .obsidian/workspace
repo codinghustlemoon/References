@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "962c6648126fa3b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dccfa74210d9a72f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1_Origin/5_Inanimate/Inanimate.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d7ab989ff2bde3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae62d1fbac892938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c49d6dedca4ded30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "514b1d4767feb608",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5641acfc7c785fe2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c7d12a3ad53308a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5081f57582e0e91e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee024925a34d37b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_Origin/5_Inanimate/Inanimate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d55a8620b6036934",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_Origin/5_Inanimate/Inanimate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c853b4e4909e032e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a656bf1f6121d612",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_Origin/5_Inanimate/Inanimate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dccfa74210d9a72f",
+  "lastOpenFiles": [
+    "1_Origin/5_Inanimate/3_Fashion/manualnotation.md",
+    "1_Origin/5_Inanimate/Inanimate.md",
+    "1_Origin/Origin.md",
+    "FINISHED_IMPORTANT.md",
+    "1_Origin/5_Inanimate/3_Fashion/1_Eastern_Style/Eastern_Style.md",
+    "testing.md",
+    "README.md",
+    "backup.md",
+    "1_Origin/manualnotation.md",
+    "1_Origin/7_Educative/2_Human_Anatomy/4_Full_Body/Full_Body.md"
+  ]
+}

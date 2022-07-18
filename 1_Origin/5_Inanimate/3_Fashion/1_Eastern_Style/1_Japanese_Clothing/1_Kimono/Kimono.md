@@ -7,3 +7,6 @@
 [[Kimono Pixiv (Yanami)]]
 [[Basic Kimonos]]
 [[Kimonos Body and Much More]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

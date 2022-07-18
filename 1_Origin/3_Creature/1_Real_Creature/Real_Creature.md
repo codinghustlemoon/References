@@ -9,3 +9,6 @@
 [[Aquatic]]
 [[Mammal]]
 [[Extinct]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

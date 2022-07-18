@@ -9,3 +9,6 @@
 [[How to Draw - Attractive Characters]]
 [[Moe Painting Visual Textbook]]
 [[How to Draw - Sexy Girls]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

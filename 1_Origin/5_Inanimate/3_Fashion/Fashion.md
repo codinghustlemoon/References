@@ -8,5 +8,8 @@
 [[Job_Specific]]
 [[Era_Specific]]
 [[Context_Specific]]
-[[Location_Specific]]
+[[Fashion_Location_Based]]
 [[Fabric]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

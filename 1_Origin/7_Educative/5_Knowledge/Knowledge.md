@@ -6,3 +6,6 @@
 [[Different_Media]]
 [[Workflow]]
 [[Book]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
