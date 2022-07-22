@@ -3,7 +3,7 @@
   "search": "-tag:#NonImportant tag:#RootOrigin",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 1329151
       }
+    },
+    {
+      "query": "tag:IsNote",
+      "color": {
+        "a": 1,
+        "rgb": 13107455
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 234,
-  "scale": 0.16348370567220719,
+  "scale": 0.16348370567221163,
   "close": false
 }
