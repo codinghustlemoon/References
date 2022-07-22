@@ -1,4 +1,4 @@
-### Arknights
+#RootOrigin/Franchise/Game_Media/Arknights
 #### Links
 ##### Parent Links
 [[Game_Media]]

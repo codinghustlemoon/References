@@ -1,4 +1,4 @@
-### Bravely Series (Akihiko Yoshida)
+#RootOrigin/Franchise/Game_Media/Fantasy_Game/Bravely Series (Akihiko Yoshida)
 #### Links
 ##### Parent Links
 [[Fantasy_Game]]

@@ -1,4 +1,4 @@
-### How to Draw Kimono (Yanami)
+#RootOrigin/Inanimate/Fashion/Eastern_Style/Japanese_Clothing/Kimono/How to Draw Kimono (Yanami)
 #### Links
 ##### Parent Links
 [[Kimono]]

@@ -1,4 +1,4 @@
-### Fashion_Location_Based
+#RootOrigin/Inanimate/Fashion/Fashion_Location_Based
 #### Links
 ##### Parent Links
 [[Fashion]]

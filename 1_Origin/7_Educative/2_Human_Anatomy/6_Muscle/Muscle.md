@@ -1,4 +1,4 @@
-### Muscle
+#RootOrigin/Educative/Human_Anatomy/Muscle
 #### Links
 ##### Parent Links
 [[Human_Anatomy]]

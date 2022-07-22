@@ -1,4 +1,4 @@
-### Granblue
+#RootOrigin/Franchise/Game_Media/Fantasy_Game/Granblue
 #### Links
 ##### Parent Links
 [[Fantasy_Game]]

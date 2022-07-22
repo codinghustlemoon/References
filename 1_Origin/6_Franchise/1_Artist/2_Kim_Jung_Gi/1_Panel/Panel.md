@@ -1,4 +1,4 @@
-### Panel
+#RootOrigin/Franchise/Artist/Kim_Jung_Gi/Panel
 #### Links
 ##### Parent Links
 [[Kim_Jung_Gi]]

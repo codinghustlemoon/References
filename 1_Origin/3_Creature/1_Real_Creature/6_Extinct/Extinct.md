@@ -1,4 +1,4 @@
-### Extinct
+#RootOrigin/Creature/Real_Creature/Extinct
 #### Links
 ##### Parent Links
 [[Real_Creature]]

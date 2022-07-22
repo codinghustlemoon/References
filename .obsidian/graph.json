@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#NonImportant",
+  "search": "-tag:#NonImportant tag:#RootOrigin",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -22,10 +22,17 @@
       }
     },
     {
+      "query": "tag:Folder/Subcolor/8",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
       "query": "tag:Folder/Subcolor/2",
       "color": {
         "a": 1,
-        "rgb": 3107572
+        "rgb": 1329151
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 234,
-  "scale": 0.0645553149968393,
+  "scale": 0.16348370567220719,
   "close": false
 }

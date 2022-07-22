@@ -1,4 +1,4 @@
-### Clip Studio Paint Photobash and Drawing landscape (Sounose)
+#RootOrigin/Educative/Tips_And_Tricks/Clip Studio Paint Photobash and Drawing landscape (Sounose)
 #### Links
 ##### Parent Links
 [[Tips_And_Tricks]]

@@ -32,7 +32,11 @@ find . -path '*/*/*' -type f -print -exec sh -c '
   ' find-sh {} \;
 ```
 
+manipulating to get path tags
+```bash
+echo "$(pwd)" | cut -c 46- | sed 's/[1-9]_/#/g' | sed 's|[/]||g'
 
+```
 for dealing with the manual.md files
 
 ```bash
@@ -84,7 +88,7 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 	   sed -i -e 's/^/[[/' "$f"
 	   sed -i 1d "$f"
    else
-      echo "not folder note"
+      echo ""
    fi
   ' find-sh {} \;
 ```
@@ -112,6 +116,7 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 	   filetitle="### $filename"
    
 	   echo "$filetitle" > "$f"
+	   echo "$filepath" | cut -c 46- | sed 's/[1-9]_/#/g' | cut -c2-
 	   echo "#### Links" >> "$f"
    
 	   echo "##### Parent Links" >> "$f"
@@ -122,6 +127,7 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 
 	   echo "##### Children Links" >> "$f"
 	   cat directsubfolder.txt >> "$f"
+	   cat manualnotation.md | tail -n +2 >> "$f"
    else
       echo "not folder file"
    fi
@@ -132,7 +138,9 @@ f [ "$e" = "$f" ]; then
    else
       e=".$e"
    fi
-
+```bash
+cat manualnotation.md | tail -n +3 >> Origin.md
+```
 checking the number of files in directory
 ```bash
 find . -path '*/*/*' -type f -print -exec sh -c '

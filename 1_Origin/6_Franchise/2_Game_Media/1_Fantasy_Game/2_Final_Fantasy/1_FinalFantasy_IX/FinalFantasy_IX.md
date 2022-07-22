@@ -1,4 +1,4 @@
-### FinalFantasy_IX
+#RootOrigin/Franchise/Game_Media/Fantasy_Game/Final_Fantasy/FinalFantasy_IX
 #### Links
 ##### Parent Links
 [[Final_Fantasy]]

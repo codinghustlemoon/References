@@ -1,4 +1,4 @@
-### How to Draw - Oji San
+#RootOrigin/Human/Human_Design/Character/How to Draw - Oji San
 #### Links
 ##### Parent Links
 [[Character]]

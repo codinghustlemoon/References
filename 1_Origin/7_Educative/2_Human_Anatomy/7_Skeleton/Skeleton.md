@@ -1,4 +1,4 @@
-### Skeleton
+#RootOrigin/Educative/Human_Anatomy/Skeleton
 #### Links
 ##### Parent Links
 [[Human_Anatomy]]

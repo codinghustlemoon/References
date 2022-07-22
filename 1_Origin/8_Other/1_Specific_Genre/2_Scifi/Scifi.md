@@ -1,4 +1,4 @@
-### Scifi
+#RootOrigin/Other/Specific_Genre/Scifi
 #### Links
 ##### Parent Links
 [[Specific_Genre]]

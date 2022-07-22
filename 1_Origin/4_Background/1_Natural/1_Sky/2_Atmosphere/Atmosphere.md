@@ -1,4 +1,4 @@
-### Atmosphere
+#RootOrigin/Background/Natural/Sky/Atmosphere
 #### Links
 ##### Parent Links
 [[Sky]]

@@ -1,4 +1,4 @@
-### Watercolor
+#RootOrigin/Educative/Knowledge/Different_Media/Watercolor
 #### Links
 ##### Parent Links
 [[Different_Media]]

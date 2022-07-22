@@ -1,4 +1,4 @@
-### Gi_Liulan
+#RootOrigin/Franchise/Artist/Gi_Liulan
 #### Links
 ##### Parent Links
 [[Artist]]

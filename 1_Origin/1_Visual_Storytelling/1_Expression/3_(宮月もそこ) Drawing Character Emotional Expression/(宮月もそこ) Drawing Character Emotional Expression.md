@@ -1,4 +1,4 @@
-### (宮月もそこ) Drawing Character Emotional Expression
+#RootOrigin/Visual_Storytelling/Expression/(宮月もそこ) Drawing Character Emotional Expression
 #### Links
 ##### Parent Links
 [[Expression]]

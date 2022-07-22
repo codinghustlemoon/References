@@ -1,4 +1,4 @@
-### Drawing Explosions
+#RootOrigin/Visual_Storytelling/Visual_Effect/Explosive_Effect/Drawing Explosions
 #### Links
 ##### Parent Links
 [[Explosive_Effect]]

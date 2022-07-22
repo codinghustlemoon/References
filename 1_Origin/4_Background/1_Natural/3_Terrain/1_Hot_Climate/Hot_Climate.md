@@ -1,4 +1,4 @@
-### Hot_Climate
+#RootOrigin/Background/Natural/Terrain/Hot_Climate
 #### Links
 ##### Parent Links
 [[Terrain]]

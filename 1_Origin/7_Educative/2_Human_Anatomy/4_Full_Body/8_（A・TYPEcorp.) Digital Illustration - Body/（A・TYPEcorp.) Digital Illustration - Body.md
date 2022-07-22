@@ -1,4 +1,4 @@
-### （A・TYPEcorp.) Digital Illustration - Body
+#RootOrigin/Educative/Human_Anatomy/Full_Body/（A・TYPEcorp.) Digital Illustration - Body
 #### Links
 ##### Parent Links
 [[Full_Body]]

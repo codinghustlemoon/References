@@ -1,4 +1,4 @@
-### Colorful_Shot
+#RootOrigin/Background/Natural/Sky/Clouds/Colorful_Shot
 #### Links
 ##### Parent Links
 [[Clouds]]

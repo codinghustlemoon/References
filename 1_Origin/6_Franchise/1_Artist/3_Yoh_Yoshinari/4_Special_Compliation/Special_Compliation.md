@@ -1,4 +1,4 @@
-### Special_Compliation
+#RootOrigin/Franchise/Artist/Yoh_Yoshinari/Special_Compliation
 #### Links
 ##### Parent Links
 [[Yoh_Yoshinari]]

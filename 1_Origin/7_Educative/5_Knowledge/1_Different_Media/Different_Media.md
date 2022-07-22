@@ -1,4 +1,4 @@
-### Different_Media
+#RootOrigin/Educative/Knowledge/Different_Media
 #### Links
 ##### Parent Links
 [[Knowledge]]

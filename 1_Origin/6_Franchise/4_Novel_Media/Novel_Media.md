@@ -1,4 +1,4 @@
-### Novel_Media
+#RootOrigin/Franchise/Novel_Media
 #### Links
 ##### Parent Links
 [[Franchise]]

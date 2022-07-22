@@ -1,4 +1,4 @@
-### Drawing_Hand
+#RootOrigin/Educative/Human_Anatomy/Hand/Drawing_Hand
 #### Links
 ##### Parent Links
 [[Hand]]

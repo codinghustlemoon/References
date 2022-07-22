@@ -1,4 +1,4 @@
-### Persona_5_Artbook
+#RootOrigin/Franchise/Game_Media/Persona_Artbook
 #### Links
 ##### Parent Links
 [[Game_Media]]

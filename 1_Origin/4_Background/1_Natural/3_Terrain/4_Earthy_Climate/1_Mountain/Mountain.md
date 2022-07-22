@@ -1,4 +1,4 @@
-### Mountain
+#RootOrigin/Background/Natural/Terrain/Earthy_Climate/Mountain
 #### Links
 ##### Parent Links
 [[Earthy_Climate]]

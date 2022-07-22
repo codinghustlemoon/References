@@ -1,4 +1,4 @@
-### Cold_Climate
+#RootOrigin/Background/Natural/Terrain/Cold_Climate
 #### Links
 ##### Parent Links
 [[Terrain]]

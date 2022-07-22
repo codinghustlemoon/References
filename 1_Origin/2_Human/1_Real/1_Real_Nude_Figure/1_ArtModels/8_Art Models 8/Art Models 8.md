@@ -1,4 +1,4 @@
-### Art Models 8
+#RootOrigin/Human/Real/Real_Nude_Figure/ArtModels/Art Models 8
 #### Links
 ##### Parent Links
 [[ArtModels]]

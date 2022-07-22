@@ -1,4 +1,4 @@
-### Semen_On_Skin
+#RootOrigin/Educative/Material/Skin_Effect/Semen_On_Skin
 #### Links
 ##### Parent Links
 [[Skin_Effect]]

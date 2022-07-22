@@ -1,4 +1,4 @@
-### Full_Body
+#RootOrigin/Educative/Human_Anatomy/Full_Body
 #### Links
 ##### Parent Links
 [[Human_Anatomy]]

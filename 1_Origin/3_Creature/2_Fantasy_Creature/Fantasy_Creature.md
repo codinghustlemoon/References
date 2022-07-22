@@ -1,4 +1,4 @@
-### Fantasy_Creature
+#RootOrigin/Creature/Fantasy_Creature
 #### Links
 ##### Parent Links
 [[Creature]]

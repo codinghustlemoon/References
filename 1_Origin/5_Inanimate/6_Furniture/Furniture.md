@@ -1,4 +1,4 @@
-### Furniture
+#RootOrigin/Inanimate/Furniture
 #### Links
 ##### Parent Links
 [[Inanimate]]

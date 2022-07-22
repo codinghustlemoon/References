@@ -1,4 +1,4 @@
-### Knowledge
+#RootOrigin/Educative/Knowledge
 #### Links
 ##### Parent Links
 [[Educative]]

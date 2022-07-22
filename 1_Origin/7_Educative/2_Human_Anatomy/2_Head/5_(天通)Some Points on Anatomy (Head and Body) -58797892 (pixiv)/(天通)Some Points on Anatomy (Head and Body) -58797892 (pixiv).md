@@ -1,4 +1,4 @@
-### (天通)Some Points on Anatomy (Head and Body) -58797892 (pixiv)
+#RootOrigin/Educative/Human_Anatomy/Head/(天通)Some Points on Anatomy (Head and Body) -58797892 (pixiv)
 #### Links
 ##### Parent Links
 [[Head]]

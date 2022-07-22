@@ -1,4 +1,4 @@
-### Text
+#RootOrigin/Franchise/Novel_Media/Cosmere/Text
 #### Links
 ##### Parent Links
 [[Cosmere]]

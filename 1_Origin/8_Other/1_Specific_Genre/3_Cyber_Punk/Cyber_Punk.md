@@ -1,4 +1,4 @@
-### Cyber_Punk
+#RootOrigin/Other/Specific_Genre/Cyber_Punk
 #### Links
 ##### Parent Links
 [[Specific_Genre]]

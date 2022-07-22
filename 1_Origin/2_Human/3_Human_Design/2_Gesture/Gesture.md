@@ -1,4 +1,4 @@
-### Gesture
+#RootOrigin/Human/Human_Design/Gesture
 #### Links
 ##### Parent Links
 [[Human_Design]]

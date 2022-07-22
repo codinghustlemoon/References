@@ -1,4 +1,4 @@
-### Fantasy
+#RootOrigin/Other/Specific_Genre/Fantasy
 #### Links
 ##### Parent Links
 [[Specific_Genre]]

@@ -1,4 +1,4 @@
-### Kimono
+#RootOrigin/Inanimate/Fashion/Eastern_Style/Japanese_Clothing/Kimono
 #### Links
 ##### Parent Links
 [[Japanese_Clothing]]

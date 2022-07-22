@@ -1,4 +1,4 @@
-### Stormlight_Archive
+#RootOrigin/Franchise/Novel_Media/Cosmere/Stormlight_Archive
 #### Links
 ##### Parent Links
 [[Cosmere]]

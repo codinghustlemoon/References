@@ -1,4 +1,4 @@
-### Painting Digital Illustration
+#RootOrigin/Educative/Knowledge/Different_Media/Painting Digital Illustration
 #### Links
 ##### Parent Links
 [[Different_Media]]

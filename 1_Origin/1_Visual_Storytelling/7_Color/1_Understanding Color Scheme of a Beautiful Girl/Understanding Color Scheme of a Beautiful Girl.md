@@ -1,4 +1,4 @@
-### Understanding Color Scheme of a Beautiful Girl
+#RootOrigin/Visual_Storytelling/Color/Understanding Color Scheme of a Beautiful Girl
 #### Links
 ##### Parent Links
 [[Color]]

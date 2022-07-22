@@ -1,4 +1,4 @@
-### Japanese_Clothing
+#RootOrigin/Inanimate/Fashion/Eastern_Style/Japanese_Clothing
 #### Links
 ##### Parent Links
 [[Eastern_Style]]

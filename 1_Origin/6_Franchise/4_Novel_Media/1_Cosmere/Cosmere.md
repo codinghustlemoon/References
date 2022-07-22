@@ -1,4 +1,4 @@
-### Cosmere
+#RootOrigin/Franchise/Novel_Media/Cosmere
 #### Links
 ##### Parent Links
 [[Novel_Media]]

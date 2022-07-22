@@ -1,4 +1,4 @@
-### Pose
+#RootOrigin/Visual_Storytelling/Pose
 #### Links
 ##### Parent Links
 [[Visual_Storytelling]]

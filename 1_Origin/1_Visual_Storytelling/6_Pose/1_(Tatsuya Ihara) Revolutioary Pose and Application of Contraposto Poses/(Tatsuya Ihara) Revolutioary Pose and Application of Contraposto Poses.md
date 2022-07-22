@@ -1,4 +1,4 @@
-### (Tatsuya Ihara) Revolutioary Pose and Application of Contraposto Poses
+#RootOrigin/Visual_Storytelling/Pose/(Tatsuya Ihara) Revolutioary Pose and Application of Contraposto Poses
 #### Links
 ##### Parent Links
 [[Pose]]

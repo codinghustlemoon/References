@@ -1,4 +1,4 @@
-### (宮月もそこ) Moe Character Drawing Basic Techniques
+#RootOrigin/Visual_Storytelling/Expression/(宮月もそこ) Moe Character Drawing Basic Techniques
 #### Links
 ##### Parent Links
 [[Expression]]

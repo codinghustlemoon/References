@@ -1,4 +1,4 @@
-### Other_Climate
+#RootOrigin/Background/Natural/Terrain/Other_Climate
 #### Links
 ##### Parent Links
 [[Terrain]]

@@ -1,4 +1,4 @@
-### Object
+#RootOrigin/Inanimate/Object
 #### Links
 ##### Parent Links
 [[Inanimate]]

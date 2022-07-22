@@ -1,4 +1,4 @@
-### Kimonos Body and Much More
+#RootOrigin/Inanimate/Fashion/Eastern_Style/Japanese_Clothing/Kimono/Kimonos Body and Much More
 #### Links
 ##### Parent Links
 [[Kimono]]

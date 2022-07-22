@@ -1,4 +1,4 @@
-### Eastern_Style
+#RootOrigin/Inanimate/Fashion/Eastern_Style
 #### Links
 ##### Parent Links
 [[Fashion]]

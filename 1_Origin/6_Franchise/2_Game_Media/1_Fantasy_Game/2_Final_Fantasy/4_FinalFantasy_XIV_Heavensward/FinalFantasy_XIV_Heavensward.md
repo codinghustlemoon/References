@@ -1,4 +1,4 @@
-### FinalFantasy_XIV_Heavensward
+#RootOrigin/Franchise/Game_Media/Fantasy_Game/Final_Fantasy/FinalFantasy_XIV_Heavensward
 #### Links
 ##### Parent Links
 [[Final_Fantasy]]

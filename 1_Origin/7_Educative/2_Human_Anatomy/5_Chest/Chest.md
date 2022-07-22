@@ -1,4 +1,4 @@
-### Chest
+#RootOrigin/Educative/Human_Anatomy/Chest
 #### Links
 ##### Parent Links
 [[Human_Anatomy]]

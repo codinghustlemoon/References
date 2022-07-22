@@ -1,4 +1,4 @@
-### Location_Specific
+#RootOrigin/Inanimate/Location_Specific
 #### Links
 ##### Parent Links
 [[Inanimate]]

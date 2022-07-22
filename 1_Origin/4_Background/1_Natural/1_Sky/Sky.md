@@ -1,4 +1,4 @@
-### Sky
+#RootOrigin/Background/Natural/Sky
 #### Links
 ##### Parent Links
 [[Natural]]

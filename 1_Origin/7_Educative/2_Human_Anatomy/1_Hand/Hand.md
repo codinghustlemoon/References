@@ -1,4 +1,4 @@
-### Hand
+#RootOrigin/Educative/Human_Anatomy/Hand
 #### Links
 ##### Parent Links
 [[Human_Anatomy]]

@@ -1,4 +1,4 @@
-### (Iwasaki Hoteru) Learning from Human Dissection Charts
+#RootOrigin/Educative/Human_Anatomy/Full_Body/(Iwasaki Hoteru) Learning from Human Dissection Charts
 #### Links
 ##### Parent Links
 [[Full_Body]]

@@ -1,4 +1,4 @@
-### Human_Design
+#RootOrigin/Human/Human_Design
 #### Links
 ##### Parent Links
 [[Human]]

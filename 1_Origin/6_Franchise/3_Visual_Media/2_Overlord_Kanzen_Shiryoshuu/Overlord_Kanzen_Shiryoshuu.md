@@ -1,4 +1,4 @@
-### Overlord_Kanzen_Shiryoshuu
+#RootOrigin/Franchise/Visual_Media/Overlord_Kanzen_Shiryoshuu
 #### Links
 ##### Parent Links
 [[Visual_Media]]

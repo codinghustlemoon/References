@@ -1,4 +1,4 @@
-### Fiction_Nude_Figure
+#RootOrigin/Human/Fiction/Fiction_Nude_Figure
 #### Links
 ##### Parent Links
 [[Fiction]]

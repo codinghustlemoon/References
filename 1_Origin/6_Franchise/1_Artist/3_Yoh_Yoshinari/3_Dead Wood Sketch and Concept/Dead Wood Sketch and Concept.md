@@ -1,4 +1,4 @@
-### Dead Wood Sketch and Concept
+#RootOrigin/Franchise/Artist/Yoh_Yoshinari/Dead Wood Sketch and Concept
 #### Links
 ##### Parent Links
 [[Yoh_Yoshinari]]

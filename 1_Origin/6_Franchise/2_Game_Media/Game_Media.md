@@ -1,4 +1,4 @@
-### Game_Media
+#RootOrigin/Franchise/Game_Media
 #### Links
 ##### Parent Links
 [[Franchise]]

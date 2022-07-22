@@ -1,4 +1,4 @@
-### Head Proportions and Details - 68886712 pixiv (Yanami)
+#RootOrigin/Educative/Human_Anatomy/Head/Head Proportions and Details - 68886712 pixiv (Yanami)
 #### Links
 ##### Parent Links
 [[Head]]

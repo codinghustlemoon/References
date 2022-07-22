@@ -1,4 +1,4 @@
-### Byleth
+#RootOrigin/Franchise/Game_Media/Fantasy_Game/Byleth
 #### Links
 ##### Parent Links
 [[Fantasy_Game]]

@@ -1,4 +1,4 @@
-### Insect
+#RootOrigin/Creature/Real_Creature/Insect
 #### Links
 ##### Parent Links
 [[Real_Creature]]

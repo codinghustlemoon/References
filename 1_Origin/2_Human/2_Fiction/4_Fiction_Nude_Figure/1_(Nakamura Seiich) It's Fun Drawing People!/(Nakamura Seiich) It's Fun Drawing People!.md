@@ -1,4 +1,4 @@
-### (Nakamura Seiich) It's Fun Drawing People!
+#RootOrigin/Human/Fiction/Fiction_Nude_Figure/(Nakamura Seiich) It's Fun Drawing People!
 #### Links
 ##### Parent Links
 [[Fiction_Nude_Figure]]

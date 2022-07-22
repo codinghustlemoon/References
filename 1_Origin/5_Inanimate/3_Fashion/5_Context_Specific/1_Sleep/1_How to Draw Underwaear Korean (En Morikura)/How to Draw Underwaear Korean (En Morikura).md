@@ -1,4 +1,4 @@
-### How to Draw Underwaear Korean (En Morikura)
+#RootOrigin/Inanimate/Fashion/Context_Specific/Sleep/How to Draw Underwaear Korean (En Morikura)
 #### Links
 ##### Parent Links
 [[Sleep]]

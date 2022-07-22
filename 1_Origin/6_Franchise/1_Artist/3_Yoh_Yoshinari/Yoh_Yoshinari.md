@@ -1,4 +1,4 @@
-### Yoh_Yoshinari
+#RootOrigin/Franchise/Artist/Yoh_Yoshinari
 #### Links
 ##### Parent Links
 [[Artist]]

@@ -1,4 +1,4 @@
-### Fire_Effect
+#RootOrigin/Visual_Storytelling/Visual_Effect/Elemental_Effect/Fire_Effect
 #### Links
 ##### Parent Links
 [[Elemental_Effect]]

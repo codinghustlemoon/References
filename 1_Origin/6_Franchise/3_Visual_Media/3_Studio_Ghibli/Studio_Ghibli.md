@@ -1,4 +1,4 @@
-### Studio_Ghibli
+#RootOrigin/Franchise/Visual_Media/Studio_Ghibli
 #### Links
 ##### Parent Links
 [[Visual_Media]]

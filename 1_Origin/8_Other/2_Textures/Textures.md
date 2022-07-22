@@ -1,4 +1,4 @@
-### Textures
+#RootOrigin/Other/Textures
 #### Links
 ##### Parent Links
 [[Other]]

@@ -1,4 +1,4 @@
-### School Swimsuit (pixiv 49024154)
+#RootOrigin/Inanimate/Fashion/Fashion_Location_Based/Swimsuit/School Swimsuit (pixiv 49024154)
 #### Links
 ##### Parent Links
 [[Swimsuit]]

@@ -1,4 +1,4 @@
-### Moe Painting Visual Textbook
+#RootOrigin/Human/Human_Design/Character/Moe Painting Visual Textbook
 #### Links
 ##### Parent Links
 [[Character]]

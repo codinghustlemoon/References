@@ -1,4 +1,4 @@
-### Clothing
+#RootOrigin/Other/Specific_Genre/Fantasy/Clothing
 #### Links
 ##### Parent Links
 [[Fantasy]]

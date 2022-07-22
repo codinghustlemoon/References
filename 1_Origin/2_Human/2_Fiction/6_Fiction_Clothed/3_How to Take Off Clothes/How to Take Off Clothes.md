@@ -1,4 +1,4 @@
-### How to Take Off Clothes
+#RootOrigin/Human/Fiction/Fiction_Clothed/How to Take Off Clothes
 #### Links
 ##### Parent Links
 [[Fiction_Clothed]]

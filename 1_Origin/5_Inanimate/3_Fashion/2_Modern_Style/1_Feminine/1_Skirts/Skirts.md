@@ -1,4 +1,4 @@
-### Skirts
+#RootOrigin/Inanimate/Fashion/Modern_Style/Feminine/Skirts
 #### Links
 ##### Parent Links
 [[Feminine]]

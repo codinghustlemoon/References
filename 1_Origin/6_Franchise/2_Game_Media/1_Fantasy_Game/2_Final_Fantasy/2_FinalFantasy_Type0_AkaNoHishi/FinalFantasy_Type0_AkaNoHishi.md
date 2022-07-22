@@ -1,4 +1,4 @@
-### FinalFantasy_Type0_AkaNoHishi
+#RootOrigin/Franchise/Game_Media/Fantasy_Game/Final_Fantasy/FinalFantasy_Type0_AkaNoHishi
 #### Links
 ##### Parent Links
 [[Final_Fantasy]]

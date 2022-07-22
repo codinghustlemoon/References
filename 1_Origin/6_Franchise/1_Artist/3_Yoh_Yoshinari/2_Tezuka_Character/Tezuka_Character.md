@@ -1,4 +1,4 @@
-### Tezuka_Character
+#RootOrigin/Franchise/Artist/Yoh_Yoshinari/Tezuka_Character
 #### Links
 ##### Parent Links
 [[Yoh_Yoshinari]]

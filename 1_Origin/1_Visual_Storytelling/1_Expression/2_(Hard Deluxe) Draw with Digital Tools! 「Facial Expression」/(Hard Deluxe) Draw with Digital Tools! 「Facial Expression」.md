@@ -1,4 +1,4 @@
-### (Hard Deluxe) Draw with Digital Tools! 「Facial Expression」
+#RootOrigin/Visual_Storytelling/Expression/(Hard Deluxe) Draw with Digital Tools! 「Facial Expression」
 #### Links
 ##### Parent Links
 [[Expression]]

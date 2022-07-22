@@ -1,4 +1,4 @@
-### Weaponry
+#RootOrigin/Inanimate/Weaponry
 #### Links
 ##### Parent Links
 [[Inanimate]]

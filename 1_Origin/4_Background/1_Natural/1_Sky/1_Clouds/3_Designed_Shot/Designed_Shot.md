@@ -1,4 +1,4 @@
-### Designed_Shot
+#RootOrigin/Background/Natural/Sky/Clouds/Designed_Shot
 #### Links
 ##### Parent Links
 [[Clouds]]

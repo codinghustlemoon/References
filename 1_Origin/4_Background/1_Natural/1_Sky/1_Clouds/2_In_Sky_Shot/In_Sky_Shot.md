@@ -1,4 +1,4 @@
-### In_Sky_Shot
+#RootOrigin/Background/Natural/Sky/Clouds/In_Sky_Shot
 #### Links
 ##### Parent Links
 [[Clouds]]

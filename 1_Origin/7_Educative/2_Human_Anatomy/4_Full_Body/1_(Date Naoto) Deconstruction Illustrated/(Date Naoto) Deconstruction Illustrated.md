@@ -1,4 +1,4 @@
-### (Date Naoto) Deconstruction Illustrated
+#RootOrigin/Educative/Human_Anatomy/Full_Body/(Date Naoto) Deconstruction Illustrated
 #### Links
 ##### Parent Links
 [[Full_Body]]

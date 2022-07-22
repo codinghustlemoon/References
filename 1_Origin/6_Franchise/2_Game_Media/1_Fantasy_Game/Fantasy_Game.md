@@ -1,4 +1,4 @@
-### Fantasy_Game
+#RootOrigin/Franchise/Game_Media/Fantasy_Game
 #### Links
 ##### Parent Links
 [[Game_Media]]

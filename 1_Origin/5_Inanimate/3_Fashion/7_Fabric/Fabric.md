@@ -1,4 +1,4 @@
-### Fabric
+#RootOrigin/Inanimate/Fashion/Fabric
 #### Links
 ##### Parent Links
 [[Fashion]]

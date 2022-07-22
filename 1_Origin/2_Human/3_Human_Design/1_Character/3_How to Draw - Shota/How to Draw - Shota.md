@@ -1,4 +1,4 @@
-### How to Draw - Shota
+#RootOrigin/Human/Human_Design/Character/How to Draw - Shota
 #### Links
 ##### Parent Links
 [[Character]]

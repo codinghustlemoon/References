@@ -1,4 +1,4 @@
-### Graphic_Archive_III
+#RootOrigin/Franchise/Game_Media/Fantasy_Game/Granblue/Graphic_Archive_III
 #### Links
 ##### Parent Links
 [[Granblue]]

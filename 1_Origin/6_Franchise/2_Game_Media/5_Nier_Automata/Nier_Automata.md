@@ -1,4 +1,4 @@
-### Nier_Automata
+#RootOrigin/Franchise/Game_Media/Nier_Automata
 #### Links
 ##### Parent Links
 [[Game_Media]]

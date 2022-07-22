@@ -1,4 +1,4 @@
-### Bush
+#RootOrigin/Background/Natural/Foliage/Bush
 #### Links
 ##### Parent Links
 [[Foliage]]

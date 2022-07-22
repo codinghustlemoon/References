@@ -1,4 +1,4 @@
-### The Art of Yoh Yhoshinari Illustrations
+#RootOrigin/Franchise/Artist/Yoh_Yoshinari/The Art of Yoh Yhoshinari Illustrations
 #### Links
 ##### Parent Links
 [[Yoh_Yoshinari]]

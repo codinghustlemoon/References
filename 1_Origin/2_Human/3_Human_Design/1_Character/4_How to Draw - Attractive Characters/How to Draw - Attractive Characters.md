@@ -1,4 +1,4 @@
-### How to Draw - Attractive Characters
+#RootOrigin/Human/Human_Design/Character/How to Draw - Attractive Characters
 #### Links
 ##### Parent Links
 [[Character]]

@@ -7,12 +7,8 @@
         "id": "dccfa74210d9a72f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1_Origin/5_Inanimate/Inanimate.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Human",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Origin/5_Inanimate/Inanimate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Origin/5_Inanimate/Inanimate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Origin/5_Inanimate/Inanimate.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "dccfa74210d9a72f",
   "lastOpenFiles": [
-    "1_Origin/5_Inanimate/3_Fashion/manualnotation.md",
-    "1_Origin/5_Inanimate/Inanimate.md",
-    "1_Origin/Origin.md",
-    "FINISHED_IMPORTANT.md",
-    "1_Origin/5_Inanimate/3_Fashion/1_Eastern_Style/Eastern_Style.md",
-    "testing.md",
-    "README.md",
-    "backup.md",
     "1_Origin/manualnotation.md",
-    "1_Origin/7_Educative/2_Human_Anatomy/4_Full_Body/Full_Body.md"
+    "1_Origin/Origin.md",
+    "Easy Lovely Flowers and Plants.md",
+    "1_Origin/4_Background/1_Natural/2_Foliage/4_Flower/Flower.md",
+    "1_Origin/6_Franchise/2_Game_Media/Game_Media.md",
+    "1_Origin/5_Inanimate/7_Location_Specific/Location_Specific.md",
+    "1_Origin/5_Inanimate/Inanimate.md",
+    "1_Origin/4_Background/Background.md",
+    "1_Origin/4_Background/manualnotation.md",
+    "1_Origin/7_Educative/1_Design/Design.md"
   ]
 }

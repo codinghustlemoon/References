@@ -1,4 +1,4 @@
-### (Yoshida Toru) Yoshida Style! Drawing Anime Effects
+#RootOrigin/Visual_Storytelling/Animation/(Yoshida Toru) Yoshida Style! Drawing Anime Effects
 #### Links
 ##### Parent Links
 [[Animation]]

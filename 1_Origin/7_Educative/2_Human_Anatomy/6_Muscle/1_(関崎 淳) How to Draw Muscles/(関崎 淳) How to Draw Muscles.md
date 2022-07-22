@@ -1,4 +1,4 @@
-### (関崎 淳) How to Draw Muscles
+#RootOrigin/Educative/Human_Anatomy/Muscle/(関崎 淳) How to Draw Muscles
 #### Links
 ##### Parent Links
 [[Muscle]]

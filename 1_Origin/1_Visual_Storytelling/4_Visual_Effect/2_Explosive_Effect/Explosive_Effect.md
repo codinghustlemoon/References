@@ -1,4 +1,4 @@
-### Explosive_Effect
+#RootOrigin/Visual_Storytelling/Visual_Effect/Explosive_Effect
 #### Links
 ##### Parent Links
 [[Visual_Effect]]

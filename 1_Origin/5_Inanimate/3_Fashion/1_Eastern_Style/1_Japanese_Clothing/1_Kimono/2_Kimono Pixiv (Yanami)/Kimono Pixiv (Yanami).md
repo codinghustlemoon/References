@@ -1,4 +1,4 @@
-### Kimono Pixiv (Yanami)
+#RootOrigin/Inanimate/Fashion/Eastern_Style/Japanese_Clothing/Kimono/Kimono Pixiv (Yanami)
 #### Links
 ##### Parent Links
 [[Kimono]]

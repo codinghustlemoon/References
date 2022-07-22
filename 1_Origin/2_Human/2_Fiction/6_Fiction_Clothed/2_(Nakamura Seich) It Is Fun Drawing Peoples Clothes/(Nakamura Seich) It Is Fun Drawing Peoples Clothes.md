@@ -1,4 +1,4 @@
-### (Nakamura Seich) It Is Fun Drawing Peoples Clothes
+#RootOrigin/Human/Fiction/Fiction_Clothed/(Nakamura Seich) It Is Fun Drawing Peoples Clothes
 #### Links
 ##### Parent Links
 [[Fiction_Clothed]]

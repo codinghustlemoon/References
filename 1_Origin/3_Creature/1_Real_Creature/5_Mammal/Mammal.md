@@ -1,4 +1,4 @@
-### Mammal
+#RootOrigin/Creature/Real_Creature/Mammal
 #### Links
 ##### Parent Links
 [[Real_Creature]]

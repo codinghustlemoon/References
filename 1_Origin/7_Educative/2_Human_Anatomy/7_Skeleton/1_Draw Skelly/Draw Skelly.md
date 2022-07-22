@@ -1,4 +1,4 @@
-### Draw Skelly
+#RootOrigin/Educative/Human_Anatomy/Skeleton/Draw Skelly
 #### Links
 ##### Parent Links
 [[Skeleton]]

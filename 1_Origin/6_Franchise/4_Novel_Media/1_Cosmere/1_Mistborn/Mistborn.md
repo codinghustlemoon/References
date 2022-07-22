@@ -1,4 +1,4 @@
-### Mistborn
+#RootOrigin/Franchise/Novel_Media/Cosmere/Mistborn
 #### Links
 ##### Parent Links
 [[Cosmere]]

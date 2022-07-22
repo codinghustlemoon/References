@@ -1,4 +1,4 @@
-### (えびも)Hair with Action - 67890246 pixiv
+#RootOrigin/Educative/Human_Anatomy/Hair/(えびも)Hair with Action - 67890246 pixiv
 #### Links
 ##### Parent Links
 [[Hair]]

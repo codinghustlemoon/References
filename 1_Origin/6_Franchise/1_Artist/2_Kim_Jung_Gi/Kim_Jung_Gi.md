@@ -1,4 +1,4 @@
-### Kim_Jung_Gi
+#RootOrigin/Franchise/Artist/Kim_Jung_Gi
 #### Links
 ##### Parent Links
 [[Artist]]

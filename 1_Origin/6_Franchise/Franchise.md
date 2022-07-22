@@ -1,4 +1,4 @@
-### Franchise
+#RootOrigin/Franchise
 #### Links
 ##### Parent Links
 [[Origin]]
@@ -10,3 +10,8 @@
 #Folder/Category
 #Folder/Color/Blue
 #Folder/Subcolor/2
+##### Manual Notation
+#Folder/Category 
+#Folder/Color/Orange
+#Folder/Subcolor/8
+

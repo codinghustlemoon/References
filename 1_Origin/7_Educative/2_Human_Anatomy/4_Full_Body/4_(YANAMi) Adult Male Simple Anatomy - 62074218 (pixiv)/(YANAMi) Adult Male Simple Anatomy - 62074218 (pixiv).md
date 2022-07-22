@@ -1,4 +1,4 @@
-### (YANAMi) Adult Male Simple Anatomy - 62074218 (pixiv)
+#RootOrigin/Educative/Human_Anatomy/Full_Body/(YANAMi) Adult Male Simple Anatomy - 62074218 (pixiv)
 #### Links
 ##### Parent Links
 [[Full_Body]]

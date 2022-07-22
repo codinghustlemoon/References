@@ -1,4 +1,4 @@
-### Dofus_Artbook
+#RootOrigin/Franchise/Game_Media/Dofus_Artbook
 #### Links
 ##### Parent Links
 [[Game_Media]]

@@ -1,4 +1,4 @@
-### Artist
+#RootOrigin/Franchise/Artist
 #### Links
 ##### Parent Links
 [[Franchise]]

@@ -1,4 +1,4 @@
-### Anatomy
+#RootOrigin/Human/Human_Design/Anatomy
 #### Links
 ##### Parent Links
 [[Human_Design]]

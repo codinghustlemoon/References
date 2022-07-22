@@ -1,4 +1,4 @@
-### (もず。)Head and Hands - 27342810 (pixiv)
+#RootOrigin/Educative/Human_Anatomy/Head/(もず。)Head and Hands - 27342810 (pixiv)
 #### Links
 ##### Parent Links
 [[Head]]

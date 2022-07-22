@@ -1,4 +1,4 @@
-### Tips_And_Tricks
+#RootOrigin/Educative/Tips_And_Tricks
 #### Links
 ##### Parent Links
 [[Educative]]

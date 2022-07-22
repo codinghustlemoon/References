@@ -1,4 +1,4 @@
-### Swimsuit
+#RootOrigin/Inanimate/Fashion/Fashion_Location_Based/Swimsuit
 #### Links
 ##### Parent Links
 [[Fashion_Location_Based]]

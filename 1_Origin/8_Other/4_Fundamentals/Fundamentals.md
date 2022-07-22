@@ -1,4 +1,4 @@
-### Fundamentals
+#RootOrigin/Other/Fundamentals
 #### Links
 ##### Parent Links
 [[Other]]

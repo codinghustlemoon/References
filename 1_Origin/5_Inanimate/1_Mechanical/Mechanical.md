@@ -1,4 +1,4 @@
-### Mechanical
+#RootOrigin/Inanimate/Mechanical
 #### Links
 ##### Parent Links
 [[Inanimate]]

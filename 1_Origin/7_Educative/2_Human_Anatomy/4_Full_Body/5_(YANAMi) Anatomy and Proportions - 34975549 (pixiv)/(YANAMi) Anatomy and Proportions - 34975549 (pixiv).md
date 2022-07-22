@@ -1,4 +1,4 @@
-### (YANAMi) Anatomy and Proportions - 34975549 (pixiv)
+#RootOrigin/Educative/Human_Anatomy/Full_Body/(YANAMi) Anatomy and Proportions - 34975549 (pixiv)
 #### Links
 ##### Parent Links
 [[Full_Body]]

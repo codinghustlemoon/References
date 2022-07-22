@@ -1,4 +1,4 @@
-### Earthy_Climate
+#RootOrigin/Background/Natural/Terrain/Earthy_Climate
 #### Links
 ##### Parent Links
 [[Terrain]]

@@ -1,4 +1,4 @@
-### Skin_Effect
+#RootOrigin/Educative/Material/Skin_Effect
 #### Links
 ##### Parent Links
 [[Material]]
