@@ -4,6 +4,7 @@
 [[Fundamental]]
 ##### Children Links
 [[Note_Proper_Arm_Pivot_Use]]
+[[Note_Ghosting_Line]]
 #Folder/Category
 #Folder/Color/Blue
 #Folder/Subcolor/2
@@ -11,3 +12,4 @@
 #HasNote
 ##### Notes
 [[Proper_Arm_Pivot_Use]]
+[[Ghosting_Line]]
